@@ -1,2 +1,6 @@
 # hamSpamClassifer
 This is Basic Machine learning project which is used to classify the spam mails from your inbox....
+
+So Here I implemented Naive Bayse Algorithm and CountVectorizer and TFidVectorizer..
+
+It is very easy to implement...
